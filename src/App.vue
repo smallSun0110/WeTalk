@@ -1,7 +1,9 @@
 <script setup></script>
 
 <template>
-  <div>wetalk</div>
+  <div>
+    <van-button>我在</van-button>
+  </div>
 </template>
 
 
